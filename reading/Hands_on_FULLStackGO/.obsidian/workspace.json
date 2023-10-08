@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "da84f62f2b36f83e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2219164ff2105c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "898ae09a0eccddba",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d69aaf40a1f82105",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Go.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc08f551b4d3c66e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Go.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "53f88dea9c94c65f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e46fbf3611d58da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c7423312cc17824",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "268cacc71701560c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bbd38776fa246931",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b045139256d07db2",
+    "type": "split",
+    "children": [
+      {
+        "id": "8567f5032862841d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b4e8823c3330291",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1 Go.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b81110ab55ffe7e9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1 Go.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b09a5c454ffa620d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a27bade08329020f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1 Go.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "cc08f551b4d3c66e",
+  "lastOpenFiles": [
+    "Go 언어 개념.md",
+    "1 Go.md"
+  ]
+}
